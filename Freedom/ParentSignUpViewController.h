@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ParentSignUpViewController.h
 //  Freedom
 //
 //  Created by Harpreet singh on 05/07/15.
@@ -8,8 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ParentSignUpViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UIButton *signUpButton;
 
 @end
-
