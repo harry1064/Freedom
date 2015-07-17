@@ -32,6 +32,7 @@
 		A35E2B1A1B493DA2000C9C7A /* LandingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A35E2B191B493DA2000C9C7A /* LandingViewController.m */; };
 		A35E2B1E1B493DC9000C9C7A /* ParentSignUpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A35E2B1D1B493DC9000C9C7A /* ParentSignUpViewController.m */; };
 		A35E2B211B49433B000C9C7A /* MyriadPro-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = A35E2B201B49433B000C9C7A /* MyriadPro-Regular.otf */; };
+		A3C4E5591B5974A400B71AB6 /* testFile.m in Sources */ = {isa = PBXBuildFile; fileRef = A3C4E5581B5974A400B71AB6 /* testFile.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -79,6 +80,8 @@
 		A35E2B1C1B493DC9000C9C7A /* ParentSignUpViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ParentSignUpViewController.h; sourceTree = "<group>"; };
 		A35E2B1D1B493DC9000C9C7A /* ParentSignUpViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ParentSignUpViewController.m; sourceTree = "<group>"; };
 		A35E2B201B49433B000C9C7A /* MyriadPro-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MyriadPro-Regular.otf"; sourceTree = "<group>"; };
+		A3C4E5571B5974A400B71AB6 /* testFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = testFile.h; sourceTree = "<group>"; };
+		A3C4E5581B5974A400B71AB6 /* testFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = testFile.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -133,6 +136,8 @@
 				A343E04A1B491BE2004F30A4 /* AppDelegate.m */,
 				A3408BC81B4EE8CF00941D6C /* MainViewController.h */,
 				A3408BC91B4EE8CF00941D6C /* MainViewController.m */,
+				A3C4E5571B5974A400B71AB6 /* testFile.h */,
+				A3C4E5581B5974A400B71AB6 /* testFile.m */,
 				A35E2B1F1B493DD4000C9C7A /* ParentSignUpViewController */,
 				A35E2B1B1B493DA7000C9C7A /* Landing View Controller */,
 				A35E2B171B493D77000C9C7A /* Spash View Controller */,
@@ -326,6 +331,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A3C4E5591B5974A400B71AB6 /* testFile.m in Sources */,
 				A343E04B1B491BE2004F30A4 /* AppDelegate.m in Sources */,
 				A3408BCA1B4EE8CF00941D6C /* MainViewController.m in Sources */,
 				A343E0481B491BE2004F30A4 /* main.m in Sources */,
