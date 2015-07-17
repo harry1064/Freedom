@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D233B98D-DA7C-406A-8DD9-8B0D812D3A2E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Freedom</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8EFC5F020A491CED510D8F1D359E71A6E5C603AE</key>
+		<string>https://github.com/harry1064/Freedom.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Freedom.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8EFC5F020A491CED510D8F1D359E71A6E5C603AE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/harry1064/Freedom.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8EFC5F020A491CED510D8F1D359E71A6E5C603AE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8EFC5F020A491CED510D8F1D359E71A6E5C603AE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Freedom</string>
+		</dict>
+	</array>
+</dict>
+</plist>
